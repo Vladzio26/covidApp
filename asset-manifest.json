@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Vladzio26/covidApp/static/css/main.6798af72.chunk.css",
+    "main.js": "/Vladzio26/covidApp/static/js/main.329d26c1.chunk.js",
+    "main.js.map": "/Vladzio26/covidApp/static/js/main.329d26c1.chunk.js.map",
+    "runtime-main.js": "/Vladzio26/covidApp/static/js/runtime-main.a1319f78.js",
+    "runtime-main.js.map": "/Vladzio26/covidApp/static/js/runtime-main.a1319f78.js.map",
+    "static/js/2.28f90c4d.chunk.js": "/Vladzio26/covidApp/static/js/2.28f90c4d.chunk.js",
+    "static/js/2.28f90c4d.chunk.js.map": "/Vladzio26/covidApp/static/js/2.28f90c4d.chunk.js.map",
+    "index.html": "/Vladzio26/covidApp/index.html",
+    "precache-manifest.bc7e7035b4635ca5fea2134aa574b6a7.js": "/Vladzio26/covidApp/precache-manifest.bc7e7035b4635ca5fea2134aa574b6a7.js",
+    "service-worker.js": "/Vladzio26/covidApp/service-worker.js",
+    "static/css/main.6798af72.chunk.css.map": "/Vladzio26/covidApp/static/css/main.6798af72.chunk.css.map",
+    "static/js/2.28f90c4d.chunk.js.LICENSE.txt": "/Vladzio26/covidApp/static/js/2.28f90c4d.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/Vladzio26/covidApp/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1319f78.js",
+    "static/js/2.28f90c4d.chunk.js",
+    "static/css/main.6798af72.chunk.css",
+    "static/js/main.329d26c1.chunk.js"
+  ]
+}
